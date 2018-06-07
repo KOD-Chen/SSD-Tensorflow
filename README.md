@@ -1,4 +1,9 @@
-# SSD-Tensorflow
+# SSD-Tensorflow<br>
+
+## 声明：<br>
+更详细的代码解读[Tensorflow实现SSD](https://zhuanlan.zhihu.com/p/37635878).<br>
+欢迎关注[我的知乎](https://www.zhihu.com/people/chensicheng/posts).<br><br>
+
 ## 运行环境：<br>
 Python3 + Tensorflow1.5 + OpenCV-python3.3.1 + Numpy1.13<br>
 windows和ubuntu环境都可以<br><br>
